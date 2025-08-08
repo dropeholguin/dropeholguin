@@ -7,26 +7,26 @@
 
 ---
 
-## 🚀 Perfil Profesional
+## 🚀 Professional Profile
 
-Ingeniero en Sistemas y Computación con más de **8 años de experiencia como Full Stack Developer**, creando soluciones digitales modernas, seguras y de alto rendimiento. He trabajado con startups, empresas de logística, e-commerce, IoT y plataformas de integración tecnológica.
+Systems and Computing Engineer with over 8 years of experience as a Full Stack Developer, building modern, secure, and high-performance digital solutions. I have worked with startups, logistics companies, e-commerce, IoT, and technology integration platforms.
 
-Especialista en **JavaScript, Node.js, React, AngularJS, Laravel y MongoDB**, con mentalidad ágil, pensamiento crítico y pasión por el código limpio y escalable.
-
----
-
-## 💡 ¿Qué me define?
-
-- 🔄 **Desarrollador Fullstack versátil:** Dominio completo del ciclo de desarrollo web.
-- 📦 **Optimización de backend:** APIs RESTful, bases de datos eficientes, comunicación en tiempo real.
-- 👥 **Trabajo en equipo ágil:** Scrum, Kanban y colaboración constante.
-- ⚙️ **DevOps en práctica:** Docker, Git, despliegue en Heroku y entornos cloud.
+Specialist in JavaScript, Node.js, React, AngularJS, Laravel, and MongoDB, with an agile mindset, critical thinking, and a passion for clean, scalable code.
 
 ---
 
-## 🛠️ Tecnología y Herramientas
+## 💡 What Defines Me?
 
-### 🧑‍💻 Lenguajes de programación
+- 🔄 **Versatile Full Stack Developer:** Complete mastery of the web development lifecycle.
+- 📦 **Backend Optimization:** RESTful APIs, efficient databases, real-time communication.
+- 👥 **Agile Teamwork:** Scrum, Kanban, and constant collaboration.
+- ⚙️ **Practical DevOps:** Docker, Git, deployment on Heroku, and cloud environments.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 🧑‍💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -51,12 +51,12 @@ Especialista en **JavaScript, Node.js, React, AngularJS, Laravel y MongoDB**, co
 ![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 ![Sails.js](https://img.shields.io/badge/Sails.js-2C3E50?style=flat)
 
-### 🛢️ Bases de datos
+### 🛢️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### 📦 Herramientas & DevOps
+### 📦 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -65,33 +65,33 @@ Especialista en **JavaScript, Node.js, React, AngularJS, Laravel y MongoDB**, co
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)
 
-### 🔌 Otras tecnologías
+### 🔌 Other Technologies
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io)
 ![MQTT](https://img.shields.io/badge/MQTT-purple?style=flat)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino)
 
 ---
 
-## 🧠 Proyectos y Logros Destacados
+## 🧠 Highlighted Projects & Achievements
 
-### 🔐 **Cargologik** (2023 - Actualidad)
-- Fullstack con Node.js, AngularJS, MongoDB
-- Desarrollo de funcionalidades críticas de logística multimodal
-- Mejoras de rendimiento, calidad de código y documentación técnica
+### 🔐 **Cargologik** (2023 - Present)
+- Fullstack with Node.js, AngularJS, MongoDB
+- Development of critical multimodal logistics features
+- Performance improvements, code quality, and technical documentation
 
 ### 🛍️ **1Ecommerce** (2020 - 2022)
-- Fullstack con Sails.js y MySQL
-- Integración de pasarelas de pago y microservicios
-- Responsable de despliegue, monitoreo y soporte de plataforma activa
-
+- Fullstack with Sails.js and MySQL
+- Payment gateway and microservices integration
+- Responsible for deployment, monitoring, and active platform support
+  
 ### 🔧 **Membo S.A.S** (2018 - 2020)
-- Integraciones con Arduino, MQTT, y React.js
-- Desarrollo de plataformas de automatización industrial e IoT
-- Comunicación en tiempo real entre dispositivos físicos y web
+- Integrations with Arduino, MQTT, and React.js
+- Development of industrial automation and IoT platforms
+- Real-time communication between physical devices and the web
 
 ---
 
-## 📈 Experiencia Profesional
+## 📈 Professional Experience
 
 - 🏢 **Cargologik** — Full Stack Developer (2023 - Presente)
 - 🏢 **1Ecommerce** — Full Stack Developer (2020 - 2022)
@@ -102,28 +102,28 @@ Especialista en **JavaScript, Node.js, React, AngularJS, Laravel y MongoDB**, co
 
 ---
 
-## 🎓 Formación y Certificaciones
+## 🎓 Education & Certifications
 
-- 🎓 **Ingeniero en Sistemas y Computación**  
-  *Universidad del Quindío* — (2011 - 2018)  
-  Diplomado en Gestión Estratégica de TI
-
----
-
-## 🌐 Idiomas
-
-- 🇪🇸 Español: Nativo  
-- 🇺🇸 Inglés: Intermedio técnico (lectura y escritura)
+- 🎓 **Systems and Computing Engineer**  
+  *University of Quindío* — (2011 - 2018)  
+  Diploma in Strategic IT Management
 
 ---
 
-## 💬 ¿Qué puedo aportar a tu equipo?
+## 🌐 Languages
 
-- ✅ Dominio completo del ciclo de vida del desarrollo web
-- ✅ Liderazgo técnico y mentoría a desarrolladores junior
-- ✅ Compromiso con la calidad, rendimiento y buenas prácticas
-- ✅ Capacidad de adaptación a nuevos entornos y tecnologías
-- ✅ Comunicación efectiva y colaboración transversal
+- 🇪🇸 Spanish: Native  
+- 🇺🇸 English: Intermediate Technical (Reading & Writing)
+
+---
+
+## 💬 What Can I Bring to Your Team?
+
+- ✅ Full mastery of the web development lifecycle
+- ✅ Technical leadership and mentorship for junior developers
+- ✅ Commitment to quality, performance, and best practices
+- ✅ Ability to adapt to new environments and technologies
+- ✅ Effective communication and cross-functional collaboration
 
 ---
 
@@ -134,11 +134,11 @@ Especialista en **JavaScript, Node.js, React, AngularJS, Laravel y MongoDB**, co
 
 ---
 
-## 🤝 ¡Conectemos!
+## 🤝 Let’s Connect!
 
 📩 **Email:** dropeholguin1994@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/pedro-luis-holguin-oviedo-a72a76116](https://www.linkedin.com/in/pedro-luis-holguin-oviedo-a72a76116)
 
 ---
 
-⭐ *“Transformo ideas complejas en soluciones tecnológicas simples y escalables.”*  
+⭐ *“I transform complex ideas into simple and scalable technological solutions.”*  

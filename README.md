@@ -1,5 +1,7 @@
 # 👨‍💻 Pedro Luis Holguín Oviedo | Full Stack Developer
 
+![Descripción](./github-contribution-grid-snake.svg)
+
 [![Website](https://img.shields.io/badge/Portafolio-pedroholguin.dev-blue)](https://github.com/dropeholguin) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pedro-luis-holguin-oviedo-a72a76116)
 [![Location](https://img.shields.io/badge/Location-Colombia-green)]()

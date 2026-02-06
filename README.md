@@ -139,7 +139,7 @@ Specialist in JavaScript, Node.js, React, AngularJS, Laravel, and MongoDB, with 
 ## 🤝 Let’s Connect!
 
 📩 **Email:** dropeholguin1994@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/pedro-luis-holguin-oviedo-a72a76116](https://www.linkedin.com/in/pedro-holguin-fullstack)
+💼 **LinkedIn:** [linkedin.com/in/pedro-luis-holguin-oviedo](https://www.linkedin.com/in/pedro-holguin-fullstack)
 
 ---
 
